@@ -27,7 +27,7 @@ import pathlib, shopen
 def ParseCodeFunc():
     toparse = code_text.get("1.0", END)
     # Loosening the text. make sure there is a space around everything important.
-    toparse =  toparse.replace(":", "=")
+    toparse =  toparse.replace(": ", "=")
     toparse =  toparse.replace("=", " = ")
     toparse =  toparse.replace(",", " ")
     toparse =  toparse.replace(";", " ")
