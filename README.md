@@ -14,13 +14,13 @@ The Voronoi-Diagrams are made labeled and randomly colored.
 
 ## Requires
 Requires following python-libraries to be installed(via `pip3 intall`):
-generativepy
-scipy
-tkinter
-shopen
-pathlib
-math
-random
+* generativepy
+* scipy
+* tkinter
+* shopen
+* pathlib
+* math
+* random
 
 ## Usage
 Start program (e.g. with `python MT-Biome2Voronoi.py`).
