@@ -1,3 +1,10 @@
+# MT-Biome2Voronoi.py
+# A MineTest/Luanti Tool to Map Biomes into a Voronoi-Diagram.
+#
+# created by Distributed-DeadLock
+# published under MIT-License
+
+
 # import generativepy - Graphing Library
 from generativepy.drawing import make_image, setup
 from generativepy.geometry import Circle, Polygon, Rectangle, Transform
