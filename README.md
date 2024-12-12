@@ -27,10 +27,11 @@ Start program (e.g. with `python MT-Biome2Voronoi.py`).
 
 Copy the Lua-Code containing Biome-Definitions from a mod, or copy  "ethereal-style" JSON-Biom-Definitions.
 Paste the text (Ctrl-V) into the Left Text-Box of the program (Title: Lua/JSON to parse here).
+
 Press the "Parse Lua/Json"-Button (at the bottom-left).
 The Right Text-Box should now contain a Biom-List in CSV-format. It should look like this:
-`biome1_name,50,50,-1,100
-biome2_name,40,60,-100,400`
+`biome1_name,50,50,-1,100`
+`biome2_name,40,60,-100,400`
 
 Repeat the above steps, until you have all Biomes collected in you CSV-List.
 
