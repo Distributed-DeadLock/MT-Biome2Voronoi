@@ -1,9 +1,9 @@
 # MT-Biome2Voronoi
  Parse Minetest/Luanti Biome-Definitions in Lua/Json code to CSV, and make Voronoi-Diagrams from CSV.
 
-![Voronoi-Diagram of Minetest Bioms](Screenshots/MTBV_08_Result_Voronoi-Diagram.png)
+![Voronoi-Diagram of Minetest Bioms](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_08_Result_Voronoi-Diagram.png)
 
-![The Interface](Screenshots/MTBV_01_Interface.png)
+![The Interface](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_01_Interface.png)
 
 
 This Python-Script helps you to collect Minetest/Luanti Biom-Definitions from Lua-Code and "ethereal-style" JSON-Biom-Definitions.
@@ -45,14 +45,14 @@ A png-image with a Voronoi-Diagram for the Bioms at a given Height-Level will be
 
 To change the file-name of the generated png-image, change the text-field next to "Image File-Name (no extension)" to the new filename (without extension)
 
-![Usage1](Screenshots/MTBV_01_Interface.png)
-![Usage2](Screenshots/MTBV_02_Usage_Copy.png)
-![Usage3](Screenshots/MTBV_03_Usage_Paste.png)
-![Usage4](Screenshots/MTBV_04_Usage_Parse.png)
-![Usage5](Screenshots/MTBV_05_Usage_Copy_more.png)
-![Usage6](Screenshots/MTBV_06_Usage_Paste-n-Parse_more.png)
-![Usage7](Screenshots/MTBV_07_Usage_Generate.png)
-![Result8](Screenshots/MTBV_08_Result_Voronoi-Diagram.png)
+![Usage1](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_01_Interface.png)
+![Usage2](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_02_Usage_Copy.png)
+![Usage3](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_03_Usage_Paste.png)
+![Usage4](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_04_Usage_Parse.png)
+![Usage5](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_05_Usage_Copy_more.png)
+![Usage6](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_06_Usage_Paste-n-Parse_more.png)
+![Usage7](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_07_Usage_Generate.png)
+![Result8](https://raw.githubusercontent.com/Distributed-DeadLock/MT-Biome2Voronoi/refs/heads/main/Screenshots/MTBV_08_Result_Voronoi-Diagram.png)
 
 ## License
 The software is licensed with the MIT License
